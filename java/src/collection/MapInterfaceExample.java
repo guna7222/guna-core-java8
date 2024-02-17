@@ -22,6 +22,5 @@ public class MapInterfaceExample {
 
         // accessing all the keys
         System.out.println(map.keySet());
-       
     }
 }
